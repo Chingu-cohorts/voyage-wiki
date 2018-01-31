@@ -11,4 +11,4 @@ The wiki can be accessed via this repos tab bar:
 ## Announcements :exclamation:
 
 - Voyage 4 invitations will be emailed on February 8-9 (depending on your timezone)! 
-- Voyage 4 starts on February 15.
+- Voyage 4 teams will be launched on February 15.
