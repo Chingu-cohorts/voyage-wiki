@@ -7,3 +7,8 @@ various situations they may encounter during the course of the Voyage.
 The wiki can be accessed via this repos tab bar:
 
 ![GitHub Wiki Tab](https://github.com/Chingu-cohorts/voyage-wiki/blob/development/images/GitHub%20repo%20tabs.png)
+
+## Announcements
+
+- Voyage 4 invitations will be emailed on February 8-9 (depending on your timezone)! 
+- Voyage 4 starts on February 15.
