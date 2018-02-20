@@ -1,7 +1,7 @@
 **_About You_**
-Team Name:
-Slack Name:
-Timezone:
+- Team Name: 
+- Slack Name: 
+- Timezone: 
 
 **_Issue Description & Expected Outcome:_** 
 
