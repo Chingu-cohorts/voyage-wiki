@@ -1,4 +1,5 @@
 **_About You_**
+- Voyage number (5 or 6): 
 - Team Name: 
 - Slack Name: 
 - Timezone: 
