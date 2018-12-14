@@ -1,8 +1,8 @@
 ## Chingu Voyage Wiki
 
-This repo is the centralized location for the [Cohort Wiki](https://github.com/Chingu-cohorts/voyage-wiki/wiki). This wiki is intended to provide Cohort
-teams with information to help them jump start their Cohort Project and to provide guidance on the
-various situations they may encounter during the course of the Cohort.
+This repo is the centralized location for the [Voyage Wiki](https://github.com/Chingu-cohorts/voyage-wiki/wiki). This wiki is intended to provide Voyage
+teams with information to help them jump start their Voyage Project and to provide guidance on the
+various situations they may encounter during the course of the Voyage.
 
 The wiki can be accessed via this repos tab bar:
 
@@ -10,5 +10,5 @@ The wiki can be accessed via this repos tab bar:
 
 ## Announcements :exclamation:
 
-- Cohort invitations will be emailed on the 5th of every month (depending on your timezone)! 
-- Cohort teams will be launched on the 1st of every month.
+- Voyage 4 invitations will be emailed on February 8-9 (depending on your timezone)! 
+- Voyage 4 teams will be launched on February 15.
