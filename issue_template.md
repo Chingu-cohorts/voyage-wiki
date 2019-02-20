@@ -1,5 +1,5 @@
 **_About You_**
-- Voyage number (5 or 6): 
+- Voyage number (e.g. 8): 
 - Team Name: 
 - Slack Name: 
 - Timezone: 
@@ -11,3 +11,4 @@
 **_Steps to Recreate:_** 
 
 **_Resolution:_** 
+<To be completed by Chingu-X team>
